@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MayurValte/MayurValte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m looking for contributing in open source projects.
 - 🌱 I’m currently learning CPP,Java,Data Structure,Algorithms.
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:(Mayur Valte)(https://www.linkedin.com/in/mayurvalte9/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
