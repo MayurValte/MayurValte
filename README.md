@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning CPP,Java,Data Structure,Algorithms.
 - 🤔 I’m looking for help with senior.
 - 💬 Ask me about anything 
-- 📫 How to reach me:[Mayur Valte](https://www.linkedin.com/in/mayurvalte9/)
+- 📫 How to reach me: [Mayur Valte](https://www.linkedin.com/in/mayurvalte9/)
 - ⚡ Fun fact: Intrested to Explore World.
