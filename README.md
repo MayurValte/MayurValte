@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with senior.
 - 💬 Ask me about anything 
 - 📫 How to reach me: [Mayur Valte](https://www.linkedin.com/in/mayurvalte9/)
-- ⚡ Fun fact: Intrested to Explore World.
+- ⚡ Fun fact: Intrested in Explore World.
